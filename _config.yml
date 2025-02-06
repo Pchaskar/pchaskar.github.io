@@ -1,0 +1,14 @@
+title: "Prasad Chaskar's Blog"
+description: "Insights from a Translational Medicine Expert"
+baseurl: ""
+url: "https://pchaskar.github.io"
+theme: minima # Optional, you can use Jekyll's built-in themes
+markdown: kramdown
+
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog"
+
